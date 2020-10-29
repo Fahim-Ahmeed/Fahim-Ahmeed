@@ -39,9 +39,12 @@
 
 <br />
 <br />
----
+<hr />
   <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
 
+<br/>
+<hr/>
+  <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
 [facebook]:https://www.facebook.com/fahimsahriar.fahad.leo.messi10/
 [stackoverflow]: https://stackoverflow.com/users/13954180/fahim-ahmed?tab=profile
 [linkedin]: https://www.linkedin.com/in/fahim-ahmed-a7978a1b1/
