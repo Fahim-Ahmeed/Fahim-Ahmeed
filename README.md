@@ -39,7 +39,8 @@
 
 <br />
 <br />
-
+---
+  <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
 
 [facebook]:https://www.facebook.com/fahimsahriar.fahad.leo.messi10/
 [stackoverflow]: https://stackoverflow.com/users/13954180/fahim-ahmed?tab=profile
