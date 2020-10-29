@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Fahim-ahmeed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=connected&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Ffahimsahriar.fahad.leo.messi10%2F">
 [<img align="left" alt="Fahim-ahmeed | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Fahim-ahmeed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Fahim-ahmeed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
