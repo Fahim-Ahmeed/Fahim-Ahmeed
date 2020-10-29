@@ -1,16 +1,15 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+### Hi there, Fahim-Ahmeed 👋
 
 
 
+
+- 🔭 I’m currently learning Programming Hero!
+- 🌱 I’ will learn possible everything 🤣
+- 🥅 2020 Goals: Learn React, Node,MongoDB
+- ⚡ Fun fact: travelling,problem solving
+
+
+<hr/>
 ### Connect with me:
 
 
@@ -35,16 +34,14 @@
 [<img align="left" alt="mongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][webdevplaylist]
 
-
+<hr/>
 
 <br />
 <br />
 <hr />
   <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
-
-<br/>
-<br/>
 <hr/>
+<br/>
   <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
 <br />
 <br />
