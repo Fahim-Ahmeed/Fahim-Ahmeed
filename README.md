@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently learning Programming Hero!
-- 🌱 I’ will learn possible everything 🤣
+- 🌱 I will learn possible everything 
 - 🥅 2020 Goals: Learn React, Node,MongoDB
 - ⚡ Fun fact: travelling,problem solving
 
@@ -40,8 +40,7 @@
 <br />
 <hr />
   <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
-<hr/>
-<br/>
+
   <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
 <br />
 <br />
