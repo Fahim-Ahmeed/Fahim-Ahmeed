@@ -10,6 +10,9 @@
 
 
 <hr/>
+<br/>
+
+
 ### Connect with me:
 
 
@@ -34,7 +37,6 @@
 [<img align="left" alt="mongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][webdevplaylist]
 
-<hr/>
 
 <br />
 <br />
