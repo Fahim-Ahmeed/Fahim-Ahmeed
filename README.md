@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently learning Programming Hero!
+- 🔭 I’m currently learning from  Programming Hero!
 - 🌱 I will learn possible everything 
-- 🥅 2020 Goals: Learn React, Node,MongoDB
+- 🥅 2020 Goals: Learn JavaScript, React, Node,MongoDB
 - ⚡ Fun fact: travelling,problem solving
 
 
