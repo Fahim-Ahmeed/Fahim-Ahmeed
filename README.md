@@ -52,4 +52,4 @@
 [stackoverflow]: https://stackoverflow.com/users/13954180/fahim-ahmed?tab=profile
 [linkedin]: https://www.linkedin.com/in/fahim-ahmed-a7978a1b1/
 [instagram]: https://www.instagram.com/fahim_sahriar_fahad/?hl=en
-[webdevplaylist]:https://fahim-ahmeed.github.io/first-assignment/
+[webdevplaylist]:https://fahim-ahmed-portfolio.web.app/
